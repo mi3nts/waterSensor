@@ -3,13 +3,15 @@
 ## Required Materials
 
 -	LISST-ABS Sensor with red cap
--	Molex (8-pin) to USB connector with black Molex output fastener
+-	Molex (8-pin) to USB connector with black locking sleeve
 -	Credit card shaped memory card
 -	Computer capable of reading .exe file (Windows PC)
 
 ## Install Software
 
 -	Run the LISST-ABS_installer_v1_8.exe software located on the memory card
+
+###
 
 
 # Instructions: Clean-up LISST-ABS Acoustic Backscatter Sensor
