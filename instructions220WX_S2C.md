@@ -24,8 +24,8 @@
 -	Open new Terminal on Linux OS
 -	Type the following commands in Terminal
 
-```ls –l /dev/ttyUSB*``` </br>
-```screen /dev/ttyUSBx 4800``` </br>
+    ```ls –l /dev/ttyUSB*``` </br>
+    ```screen /dev/ttyUSBx 4800``` </br>
 
 
 
