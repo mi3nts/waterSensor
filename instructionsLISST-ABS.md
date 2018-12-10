@@ -11,7 +11,7 @@
 
 -	Run the LISST-ABS_installer_v1_8.exe software located on the memory card
 
-###
+(WORK IN PROGRESS)
 
 
 # Instructions: Clean-up LISST-ABS Acoustic Backscatter Sensor
