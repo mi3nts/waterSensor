@@ -1,6 +1,6 @@
 Owner's manual available at www.waterprobes.com>Support>Manuals>Manta Owner's Manual (PDF)
 
-#Materials:
+# Materials:
 
 -   Owner's manual (pdf)
 -   Manta quick reference guide
@@ -14,9 +14,9 @@ Owner's manual available at www.waterprobes.com>Support>Manuals>Manta Owner's Ma
 -   Electrolyte solution
 -   Windows PC
 
-#Instructions:
+# Instructions:
 
-##(Initial Setup)
+## (Initial Setup)
 
 -   Step 1: Download and install Manta control software from www.waterprobes.com>Support>Software>Manta Software for PCs.
 -   Step 2: Remove storage cup/calibration cup(if you are not calibrating) and attach weighted sensor guard.
@@ -30,5 +30,5 @@ Owner's manual available at www.waterprobes.com>Support>Manuals>Manta Owner's Ma
 -   Step 8: If this is the first time you are connecting the sensor to the PC, then make sure the sensor shows up in one of the COM ports     as "Prolific USB-to-Serial COM Port".
 -   Step 9: Launch the Manta2 control software that was installed in Step 1. Turn manta data logging on and you should see values start to     populate the table.
  
- ##(Calibration)
+ ## (Calibration)
  In Progress
