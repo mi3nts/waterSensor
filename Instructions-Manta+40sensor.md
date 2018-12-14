@@ -18,6 +18,8 @@ Owner's manual available at www.waterprobes.com>Support>Manuals>Manta Owner's Ma
 
 ## (Initial Setup)
 
+-   Youtube guide for first time setup: https://www.youtube.com/watch?v=FzG6AQr8SDM
+
 -   Step 1: Download and install Manta control software from www.waterprobes.com>Support>Software>Manta Software for PCs.
 -   Step 2: Remove storage cup/calibration cup(if you are not calibrating) and attach weighted sensor guard.
 -   Step 3: Remove black plug(its the small black attachement with a cylindrical hole) from the top of the manta sensor 
