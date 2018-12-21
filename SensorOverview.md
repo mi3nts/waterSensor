@@ -8,7 +8,7 @@
 
 ## Manta + 40: MT10183488
 	Output: serial RS-232
-	Sensors: 
+Sensors: 
   1.	NO3 (Sep 18) - Nitrate
   2.	Br (Aug 17) – Bromide
   3.	NH4 (Sep 18) – Ammonium
@@ -23,7 +23,7 @@
 
 ## Manta + 40: MT10183489
 	Output: serial RS-232
-	Sensors: 
+Sensors: 
   1.	BGA-M (0861)
   2.	BGA-F (0911)
   3.	CHLA (0956) – Chlorophyll a
@@ -33,7 +33,7 @@
 	
 ## Manta + 40: MT10183490
 	Output: serial RS-232
-	Sensors:
+Sensors:
   1.	Bright (0962) – Optical Brightener
   2.	Crude Oil (0959) 
   3.	Fuel (0960) 
