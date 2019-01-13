@@ -7,6 +7,7 @@
 -	Short Ethernet cable
 -	Control computer
 -	USB to Ethernet adapter
+- Power/internet block
 
 ## Steps
 -	Set up tripod at full extension
