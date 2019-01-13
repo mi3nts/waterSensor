@@ -1,0 +1,59 @@
+# Assembly of Boat
+
+## Supplies
+-	2 bases
+-	1 frame
+-	1 fin
+-	1 Targa mast
+-	5 short rods
+-	4 long rods
+-	5 small rod latches
+-	4 large rod latches (with base and screws)
+-	OBS (onboard system) box (houses computer)
+-	Payload box (connects to sensors)
+-	Biosonics MX Sensor
+-	2-4 black 8-pin power cables for batteries
+-	Airmar 220WX
+-	Black Airmar 7/6-pin cable
+-	Metal Airmar mount on rod
+-	White plastic Airmar mount connector
+
+## Steps 
+-	Unscrew 4 metal hooks from 2 bases
+-	Remove 4 hooks and 4 washers
+-	Attach frame to 2 bases (ensure angled legs point forward)
+-	Place washers and hooks back onto 2 bases
+-	Unscrew 6 screws holding the nose of the frame in place (nose removed because GPS device no longer needed)
+-	Unscrew 6 screws holding the tail of the frame in place (tail removed because sensor mounts use tail’s bolt holes)
+-	Remove 4 bolts located near the middle of the frame near the sides
+-	Lift Targa mast by metal handle and place on middle of frame with camera pointing forward
+-	Screw 4 bolts back into sides of middle of the frame
+-	Engage 4 locks of Targa mast located at the corners of the Targa mast base
+-	Screw 4 large rod latches (with base and screws) into the front and back of frame with shorter screws on the outside of the frame. Screws must be tool tightened.
+-	Slide 2 short rods into 2 front large rod latches
+-	Slide 2 short rods into 2 back large rod latches
+-	Slide 2 small rod latches onto 2 front short rods with openings pointing toward inside
+-	Place OBS in front opening of frame with antenna positioned toward the back. Port caps may need to be removed.
+-	Engage 4 locks on each corner of OBS box
+-	Place antenna on OBS
+-	Place payload box in back opening of the frame
+-	Engage 4 locks on each corner of payload box
+-	Attach Biosonics MX sensor onto bottom of metal fin
+-	Attach metal fin using 2 latches located near the back of the frame
+-	Connect Biosonics MX sensor to payload box. Port located on front left side of payload box.
+-	Connect 2 yellow Ethernet cables from Targa Mast to left side of OBS and payload box. 
+-	Connect 2 orange 4-pin Soriau cables (Power and CAN-BUS) from Targa Mast to left side of OBS and payload box. 
+-	Connect 2 black 8-pin Thruster cables to left and right side of OBS box
+-	Connect 2 black 8-pin power cables from batteries to left and right side of OBS box
+-	Reed switch on battery: Place magnet key on switch to turn on and off. 2 flashes per 2 seconds = on. 5 flashes = off.
+-	Slide 1 small rod latch onto each back short rods with opening positioned toward inside of boat
+-	Slide 1 small rod latch onto 1 long rod two times
+-	Slide the long rod with the small rod latch through the small rod latches mounted on the front and back short rods. Ensure the small rod latches on the long rods are positioned up, parallel, and toward the back of the frame.
+-	Slide 1 short rod through the 2 small rod latches mounted on the top back of the frame such that the short rod is perpendicular to the bases
+-	Slide 1 small rod latch on the right end of the short rod running perpendicular to the bases
+-	Slide 2 long rods through the small rod latches attached on the ends of the 4 short rods running down the frame of the boat
+-	Connect 7-pin cable to Airmar
+-	Attach white plastic Airmar mount connector to Airmar while feeding the cable through the opening in the mount connector
+-	Attach Airmar onto to metal Airmar mount
+-	Slide Airmar mount into small rod latch attached to the short rod running perpendicular to the bases
+-	Connect 6-pin cable to payload box (ensure power to Aimar port is off)
