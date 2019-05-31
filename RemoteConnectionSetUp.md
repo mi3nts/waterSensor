@@ -16,7 +16,11 @@
 -	Plug power/internet block into power
 -	Plug short yellow Ethernet cable into the antenna then plug the other end of the cable into the POE port of the power/internet block
 -	Plug long yellow Ethernet cable into the LAN port of the power/internet block then plug the other end of the cable into the computer
--	For long range wireless connection: computer set up to static IP 192.168.1.58
+-	For long range wireless connection have the : 
+ - - Static IP 192.168.1.58
+ - - Netmask : 255.255.255.0 
+ - - Gateway : 192.168.0.1
+
 -	Launch VCS on Control computer
 -	Choose connection type
 - Connect to Otter8
