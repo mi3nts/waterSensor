@@ -22,5 +22,6 @@
  - Gateway : 192.168.0.1
 
 -	Launch VCS on Control computer
--	Choose connection type
-- Connect to Otter8
+-	Make sure that you are connected to the wired network 
+- Select "otter-uni" as the connection type.
+- Connect to Otter8 usv
