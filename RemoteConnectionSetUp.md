@@ -23,5 +23,5 @@
 
 -	Launch VCS on Control computer
 -	Make sure that you are connected to the wired network 
-- Select "otter-uni" as the connection type.
+- Select "otter-ubi" as the connection type.
 - Connect to Otter8 usv
